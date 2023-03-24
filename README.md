@@ -1,4 +1,4 @@
-To complete assignment for OASIS INFOBYTE Java development Internship, I have made below 2 different Java Program using Simple Java GUI. 
+To complete assignment for OASIS INFOBYTE Java development Internship, I have made below 2 different Java Programs using Simple Java GUI. 
 
 <h1>Task 1 - Online Exam </h1><br> 
  
