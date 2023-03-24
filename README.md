@@ -15,7 +15,7 @@ Instead of using a database, I used an array to store the questions, options, a
 
 <br>
 <br>
-<h1>Task 2 - ATM Banking </h1>  
+<h1>Task 2 - ATM Banking </h1><br>
 <b>&#127797;Java Classes Used &#127797;</b>
 <br><i>
 <ul>
